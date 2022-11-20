@@ -1,0 +1,6 @@
+﻿Column,Description
+user_id, non identifiable randomly generated user id.
+anime_id, MyAnemlist ID of the anime. (e.g. 1).
+score, score between 1 to 10 given by the user. 0 if the user didn't assign a score. (e.g. 10)
+watching_status, state ID from this anime in the anime list of this user. (e.g. 2)
+watched_episodes, numbers of episodes watched by the user. (e.g. 24)
